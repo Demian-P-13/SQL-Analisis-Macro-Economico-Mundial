@@ -1,8 +1,6 @@
 # SQL-Analisis-Macro-Economico Mundial
 Análisis de dominancia económica y barreras lingüísticas regionales mediante SQL 
 
-# Análisis Macro-Económico y Geopolítico (SQL)
-
 ## 🌎 Introducción
 El presente proyecto tiene el propósito de explorar el conjunto de datos "World" (esquema oficial de MySQL) para responder preguntas sencillas pero puntuales sobre la dinámica global entre 1990 y 2000.
 
