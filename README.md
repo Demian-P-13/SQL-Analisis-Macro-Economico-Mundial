@@ -13,4 +13,4 @@ En esta entrega se busca dar respuesta a interrogantes clave:
 ## 💡 Valor Analítico
 Determinar el dominio comercial de un país mediante el **PIB nacional** permite visualizar la dimensión económica de un sector geográfico. Adicionalmente, el análisis busca validar si el idioma es un facilitador de la integración regional o si carece de relevancia frente a otros factores macroeconómicos.
 
-> **Nota sobre los datos:** La base de datos refleja la realidad de la década de los 90. Aunque está desactualizada, funciona como un punto de referencia histórico para ilustrar la reconfiguración económica global hasta nuestros días.
+> **Nota sobre los datos:** La base de datos refleja la realidad de la década de los 90. Aunque está desactualizada, funciona como un punto de referencia histórico para ilustrar la reconfiguración económica global hasta nuestros días. 
